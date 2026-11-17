@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080/api/posts";
+const API_URL = "https://blog-backend-0q7l.onrender.com/api/posts";
 
 // Load all posts when the page opens
 document.addEventListener("DOMContentLoaded", fetchPosts);
